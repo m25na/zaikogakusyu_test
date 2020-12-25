@@ -1,3 +1,4 @@
+package gakkou_java;
 import java.util.Random;
 
 public class Uranai {

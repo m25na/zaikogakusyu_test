@@ -1,3 +1,4 @@
+package gakkou_java;
 public class Test_nao {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
