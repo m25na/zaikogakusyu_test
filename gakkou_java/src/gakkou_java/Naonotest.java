@@ -2,7 +2,8 @@ package gakkou_java;
 public class Naonotest {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        System.out.println("これはtestで動かないのでそのための一時的避難です。");
+        System.out.println("これは自分の変更する場所にします。");
+        System.out.println("マックでのコミット練習。");
 
         int num = 0;
         if (num == 0) {
